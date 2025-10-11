@@ -32,11 +32,6 @@ Node.js, Express.js, REST APIs, MySQL, MongoDB
 ### Tools & Others
 Git, GitHub, VS Code, Postman, Linux  
 
----
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aminkhall&show_icons=true&hide_border=true&theme=gruvbox)
 
 ---
 
