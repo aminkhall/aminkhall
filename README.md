@@ -6,7 +6,7 @@
 
 # Mohamed Amine Khallouk
 
-**Junior Full Stack Developer | Passionate about Web Development & Problem Solving**
+**Full Stack Developer | Passionate about Web Development & Problem Solving**
 
 📍 Morocco | 💼 Open to opportunities | 📧 [Aminekhallouk2@gmail.com](mailto:Aminekhallouk2@gmail.com)  
 🌐 [LinkedIn](http://linkedin.com/in/aminkhall) | 💻 [GitHub](https://github.com/Aminkhall)
@@ -14,7 +14,7 @@
 ---
 
 ## About Me
-I am a **motivated Junior Full Stack Developer** with a strong foundation in C, C++, Python, and web development technologies. I enjoy building efficient and scalable web applications, solving problems, and continuously improving my skills.  
+I am a **Full Stack Developer** with a strong foundation in C, C++, Python, and web development technologies. I enjoy building efficient and scalable web applications, solving problems, and continuously improving my skills.  
 
 - 🌱 Learning **advanced JavaScript frameworks, Node.js, and React**  
 - 💬 Open to discussions about **coding, algorithms, and web development**  
