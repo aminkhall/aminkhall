@@ -1,46 +1,46 @@
-[![mkhallou's 42 stats](https://badge.mediaplus.ma/kettlebells/mkhallou)](https://github.com/oakoudad/badge42)
+<div align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/kettlebells/mkhallou" alt="mkhallou's 42 stats" />
+  </a>
+</div>
 
-# Hi there 👋, I'm Mohamed Amine Khallouk
+# Mohamed Amine Khallouk
 
-I'm a **Junior Full Stack Developer** from Morocco, passionate about building web applications and learning new technologies every day.  
+**Junior Full Stack Developer | Passionate about Web Development & Problem Solving**
 
----
-
-## 🚀 About Me
-- 🔭 I’m currently working on **personal projects and improving my skills in full stack development**.
-- 🌱 I’m learning **React, Node.js, and modern web technologies**.
-- 💬 Ask me about **C, C++, Python, JavaScript, and web development**.
-- 📫 How to reach me: **[Email](mailto:Aminekhallouk2@gmail.com)**
-- 🌐 Connect with me on [LinkedIn](http://linkedin.com/in/aminkhall)  
-- 💻 Check out my projects on [GitHub](https://github.com/Aminkhall)
+📍 Morocco | 💼 Open to opportunities | 📧 [Aminekhallouk2@gmail.com](mailto:Aminekhallouk2@gmail.com)  
+🌐 [LinkedIn](http://linkedin.com/in/aminkhall) | 💻 [GitHub](https://github.com/Aminkhall)
 
 ---
 
-## 🛠️ Skills
+## About Me
+I am a **motivated Junior Full Stack Developer** with a strong foundation in C, C++, Python, and web development technologies. I enjoy building efficient and scalable web applications, solving problems, and continuously improving my skills.  
+
+- 🌱 Learning **advanced JavaScript frameworks, Node.js, and React**  
+- 💬 Open to discussions about **coding, algorithms, and web development**  
+
+---
+
+## Skills
 
 ### Frontend
-- HTML5, CSS3, JavaScript
-- React.js, Bootstrap, Tailwind CSS
+HTML5, CSS3, JavaScript, React.js, Tailwind CSS, Bootstrap  
 
 ### Backend
-- Node.js, Express.js
-- REST APIs
+Node.js, Express.js, REST APIs, MySQL, MongoDB  
 
-### Database
-- MySQL, MongoDB
-
-### Tools
-- Git, GitHub, VS Code, Postman
+### Tools & Others
+Git, GitHub, VS Code, Postman, Linux  
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aminkhall&show_icons=true&hide_border=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aminkhall&show_icons=true&hide_border=true&theme=gruvbox)
 
 ---
 
-## 💬 Languages & Tools
+## Languages & Technologies
 
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
