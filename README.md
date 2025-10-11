@@ -34,15 +34,6 @@ I'm a **Junior Full Stack Developer** from Morocco, passionate about building we
 
 ---
 
-## 🏆 Projects
-Here are some of my key projects:
-
-- **[CS50 Projects](https://github.com/Aminkhall?tab=repositories&q=CS50)** – Solving exercises and building web apps from Harvard CS50.
-- **[Personal Portfolio](https://github.com/Aminkhall/portfolio)** – My personal portfolio website.
-- **[Mini Shell Project](https://github.com/Aminkhall/minishell)** – Implemented a simple shell in C.
-
----
-
 ## 📊 GitHub Stats
 
 ![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aminkhall&show_icons=true&hide_border=true&theme=radical)
