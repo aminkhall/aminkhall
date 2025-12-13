@@ -35,9 +35,10 @@ I am passionate about building scalable backend architectures, understanding ope
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aminkhall&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminkhall&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aminkhall&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminkhall&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
 </div>
+
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=aminkhall&theme=dark&hide_border=true" height="150" alt="streak graph" />
 </div>
