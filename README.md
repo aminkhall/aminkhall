@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Junior Software Engineer | Full Stack & Systems Enthusiast
 
-I am a software engineering student at **42 Network (1337 School)** based in **Casablanca, Morocco**. My journey bridges low-level systems programming in **C/C++** with modern high-level web development using the **MERN Stack**.
+I am a software engineering student at **42 Network (1337 School)** based in **Khouribga, Morocco**. My journey bridges low-level systems programming in **C/C++** with modern high-level web development using the **MERN Stack**.
 
 I am passionate about building scalable backend architectures, understanding operating systems, and crafting intuitive user experiences.
 
